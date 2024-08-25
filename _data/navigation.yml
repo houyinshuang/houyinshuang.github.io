@@ -8,20 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Dances"
+    url: /dances/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Baking"
+    url: /baking/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
